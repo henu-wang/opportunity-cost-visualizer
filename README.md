@@ -1,17 +1,11 @@
-# Opportunity Cost Visualizer
+# opportunity cost visualizer
 
-Visualize the hidden costs of every decision. Part of [KeepRule](https://keeprule.com) ecosystem.
-
-## Features
-- Framework documentation
-- Real-world examples
-- Practical exercises
+Visualize opportunity costs of every decision
 
 ## Resources
-- [Principles](https://keeprule.com/en/scenarios)
-- [Explore](https://keeprule.com/en/principles)
-- [Learn More](https://keeprule.com/en/faq)
-- [Blog](https://keeprule.com/en/blog)
 
-## License
-MIT
+- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
